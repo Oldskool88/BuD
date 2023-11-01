@@ -1,0 +1,2 @@
+gem install bundler jekyll  # Install Bundler and Jekyll (if not already installed)
+jekyll new . --force       # Create a new Jekyll site in the current folder
